@@ -87,12 +87,13 @@ Ensure you have the following installed:
    bash
    npm install
    
+   
 
-3. *Set up Firebase*:
+4. *Set up Firebase*:
    - Create a Firebase project and add the configuration details in .env file.
    - Enable Firestore Database and Authentication (email & password).
 
-4. *Run the development server*:
+5. *Run the development server*:
    bash
    npm start
    
