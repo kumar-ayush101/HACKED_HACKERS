@@ -2,12 +2,27 @@ TEAM : HACKED_HACKERS
 MEMBERS: AYUSH KUMAR , SARIM MALIK
 COLLEGE: IIIT KOTA
 
-Deployment Link : https://hacked-hackers.vercel.app/
+
+
+
+Flow Chart :  ![abcde](https://github.com/user-attachments/assets/81135f04-6f2e-46bd-9766-673d8c11daed)
+
 
 Dashbaord Page  : ![xyz1](https://github.com/user-attachments/assets/5f8c3d15-3fdc-44ef-b921-7d090b2c9b8e)
-Tracker Page :  ![xyz1](https://github.com/user-attachments/assets/da3d39f8-cdcf-41be-9343-f4f4b3dc14a0)
-Flow Chart : ![abcde](https://github.com/user-attachments/assets/4dc588be-89c6-42ae-b034-13647511c2e0)
-Recommendation Page : ![xyz1](https://github.com/user-attachments/assets/2ce966c3-fda5-4607-b87b-ecd962dadc0e)
+
+
+Tracker Page : ![tracker](https://github.com/user-attachments/assets/7293407e-7459-40f1-bc11-7bfaf0dcca0d)
+
+
+leaderboard page : ![leaderboard](https://github.com/user-attachments/assets/df883cd2-71bc-404c-94e1-c9ed120db504)
+
+
+Recommendation Page : ![recommendations](https://github.com/user-attachments/assets/c555182c-5fb3-4d69-9202-7940bcce2f97)
+
+
+tasks : ![tasks](https://github.com/user-attachments/assets/09b3d3ec-43f5-468c-9350-ccce0d9437b6)
+
+
 
 
 
@@ -110,5 +125,8 @@ Ensure you have the following installed:
 ## *Contributing*
 We welcome contributions to *HappyHabit*! Please feel free to fork the repository, open issues, or submit pull requests.
 
+## Deployment Link
+
+Deployment Link : https://hacked-hackers.vercel.app/
 
 
