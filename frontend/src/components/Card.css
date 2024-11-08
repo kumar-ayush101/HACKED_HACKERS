@@ -1,0 +1,26 @@
+.card {
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100vh;
+  max-width: 1000px;
+}
+
+.welcome-card {
+  background-color: #fddc9b;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quote-card {
+  background-color: #e6f6e6;
+  color: #a8577d;
+  text-align: center;
+}
+
+.quote-card h3 {
+  margin: 0;
+  color: #8b4b7b;
+}

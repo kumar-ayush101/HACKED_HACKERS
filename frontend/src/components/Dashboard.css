@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #e9e9e9;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard {
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: #6b3593;
+  color: white;
+  padding: 20px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.header h1 {
+  margin: 0;
+  display: inline-block;
+}
+
+.cookie-icon {
+  width: 40px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+}
+
+.achievements-section {
+  color: #5c3a3a;
+}
+
+.achievements-grid {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.achievement {
+  background-color: #e6ccff;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.footer {
+  background-color: #5c4a4a;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
